@@ -33,7 +33,7 @@ export default function FooterCom() {
                   target='_blank'
                   rel='noopener noreferrer'
                 >
-                  Unity Blog
+                  Madhura's Blog
                 </Footer.Link>
               </Footer.LinkGroup>
             </div>
